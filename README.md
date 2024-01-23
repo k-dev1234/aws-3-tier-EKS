@@ -7,7 +7,7 @@
 ## Breakdown
 - ##### AWS EKS Cluster
     - Create AWS EKS Cluster
-    $`eksctl create cluster --name demo-cluster-three-tier-1 --region us-east-1`
+    - $```eksctl create cluster --name demo-cluster-three-tier-1 --region us-east-1```
 
 ---
 ## END
